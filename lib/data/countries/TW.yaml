@@ -15,11 +15,11 @@ TW:
   gec: TW
   latitude: 23 30 N
   longitude: 121 00 E
-  name: Taiwan, Republic Of China
+  name: Taiwan
   names:
   - Taiwan
   - Taiwán
-  - "台湾"
+  - "台灣"
   national_destination_code_lengths:
   - 2
   national_number_lengths:
