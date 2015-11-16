@@ -32,7 +32,7 @@ HK:
   un_locode: HK
   languages:
   - en
-  - zh
+  - zh-HK
   nationality: Chinese
   postal_code: false
   min_longitude: '113.833333'
